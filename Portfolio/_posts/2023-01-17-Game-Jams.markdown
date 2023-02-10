@@ -12,5 +12,5 @@ in the creation of these games as an opportunity to pick up various game engines
 
 As a bit of a brief, if you're not entirely aware of what game jams entail - they're a community-driven
 experience where a large number of people agree to a time constraint to create games, and afterwards
-review one another's creations to learn and grow.
+review one another's creations to learn and grow. A test change.
 
